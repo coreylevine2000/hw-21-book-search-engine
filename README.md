@@ -252,13 +252,5 @@ This Challenge is graded based on the following criteria:
 * Repository contains high-quality README file with description, screenshot, and link to the deployed application.
 
 
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Repo:https://github.com/coreylevine2000/hw-21-book-search-engine
+Link: https://warm-lake-97579.herokuapp.com/
